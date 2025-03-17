@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lourens Adendorff, @AdendorffL
 - 👀 I’m interested in Programming and Tech
-- 🌱 I’m currently learning Software & Web Development
+- 🌱 I’m currently studying Software & Web Development
 - 💞️ I’m looking to collaborate on Programming Problems to improve my skills
 - 📫 How to reach me:
   e-mail: lou.adendorff@gmail.com
