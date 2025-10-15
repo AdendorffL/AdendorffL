@@ -5,7 +5,6 @@
 - 📫 How to reach me:
   e-mail: lou.adendorff@gmail.com
   phone: +27 82 338 2284
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: There are about 7 137 languages that I cannot speak.
 
 <!---
