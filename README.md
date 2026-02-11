@@ -20,7 +20,7 @@
 - Data Engineering
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AdendorffL&theme=onedark&hide_border=true&cache_seconds=86400" alt="AdendorffL's GitHub Streak" width="49%" />
 </p>
