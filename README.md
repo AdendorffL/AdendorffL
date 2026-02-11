@@ -8,9 +8,9 @@
 </p>
 
 ## 📌 About Me
-- 🌱 I'm currently learning C# and using Linux Mint without permanently breaking anything.
+- 🌱 I'm currently learning C# and how to personalize Linux Mint without permanently breaking anything (good thing I chose the easy one).
 - 🤝 I'm looking to collaborate on small projects to improve my skills and learn from more experienced developers.
-- 🙏 I would love all the support and guidance I can get.
+- 🙏 I would love all your support and guidance on my journey.
 
 
 ## 🧠 My Focus Areas
