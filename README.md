@@ -16,8 +16,6 @@
 ## 🧠 My Focus Areas
 - Web Development
 - Back-End Development
-- Cloud Engineering
-- Data Engineering
 
 
 ## 📊 GitHub Stats
